@@ -1,6 +1,6 @@
 # Contact Manager
 
-Contact Manager is a backend application developed using Node.js, Express, MongoDB, and JWT. The application provides functionalities to manage contacts and users with CRUD (Create, Read, Update, Delete) operations.
+Contact Manager is a backend service developed with Node.js, Express, MongoDB, and JWT, providing robust API endpoints for managing user contacts. It supports CRUD operations and includes features such as user authentication and error handling.
 
 ## Table of Contents
 
