@@ -22,27 +22,27 @@ Contact Manager is a backend application developed using Node.js, Express, Mongo
 ### Installation
 
 1. **Clone the Repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/your-username/Contact-Manager.git
-   \`\`\`
+   ```
 
 2. **Navigate to Project Directory**
-   \`\`\`bash
+   ```bash
    cd Contact-Manager
-   \`\`\`
+   ```
 
 3. **Install Dependencies**
-   \`\`\`bash
-   npm install
-   \`\`\`
+    ```bash
+    npm install
+    ```
 
 4. **Create .env File**
    Add your environment variables such as `PORT`, `ACCESS_TOKEN_SECRET`, and `CONNECTION_STRING`.
 
 5. **Run the Server**
-   \`\`\`bash
-   npm start
-   \`\`\`
+    ```bash
+    npm start
+    ```
 
 ## Endpoints
 
