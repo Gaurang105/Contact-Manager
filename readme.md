@@ -87,7 +87,3 @@ Manages user-related operations such as registration, login, and fetching the cu
 ## Contributing
 
 Feel free to fork, open pull requests, or submit issues.
-
-## License
-
-MIT License
